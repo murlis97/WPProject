@@ -38,4 +38,4 @@ This About button redirects to the bottom of the page which has the links to var
 
 System Requirements : 
 Browser and Stable Internet Connection.
-50 MB of data storage space (:P)
+50 MB of data storage space
